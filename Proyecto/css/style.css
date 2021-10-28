@@ -1,0 +1,288 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: box;
+    font-family: Antonio;
+}
+
+@font-face{
+    font-family: Antonio;
+    src: url(/Fuentes/Antonio-VariableFont_wght.ttf);
+}
+
+.tittle{
+    font-size: 5em;
+    color: #746B5D;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.SubTittle{
+    font-size: 2em;
+    margin-left: 90px;
+}
+
+#ContainerPrinc{
+    margin: 0px;
+   max-width: 100%;
+}
+
+.img1{
+    height:750px;
+    width: 790px;
+    
+}
+
+.img2{
+    height: 750px;
+    width: 500px;
+}
+
+.img3{
+    height: 750px;
+    width: 500px;
+    
+}
+
+.imgLogo{
+    margin-top: 20px;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+.contact{
+    width: 100%;
+    height: 40px;
+    background-color: #746B5D;
+    padding-top: 5px;
+    
+}
+
+.contact a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    
+}
+
+.contact a:hover{
+    color: rgb(189, 189, 189);
+}
+
+
+#C1{
+    height: 750px;
+    width: 80%;
+    padding: 0px;
+}
+
+#C2{
+    width: 20%;
+    padding: 0;
+    height: 750px;
+}
+
+#C3{
+    width: 40%;
+    padding: 0;
+}
+
+#C4{
+    width: 60%;
+}
+
+#C6{
+    padding: 0;
+}
+
+
+
+.indice{
+    margin-top: 117px;
+    width: 100px;
+    float: left;
+}
+
+.indice1{
+    width: 400px;
+    height: 500px;
+    margin-top: 117px;
+    float: left;
+
+}
+
+.indice2{
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.circle{
+    width: 90px;
+    height: 90px;
+    background-color: #746B5D;
+    margin-top: 40px;
+    border-radius: 80%;
+}
+
+.circle h1{
+    text-align: center;
+    padding-top: 19px;
+}
+
+.fb, .instagram, .mail, .twitter{
+    margin-top: 1px;
+    width: 20px;
+    height: 20px;
+}
+
+.Itittle{
+    font-size: 2.5em;
+}
+
+.IStittle{
+    font-size: 1.4em;
+}
+
+.TittlePart1{
+    height: 140px;
+}
+
+.circle1{
+    width: 90px;
+    height: 90px;
+    background-color: #746B5D;
+    border-radius: 80%;
+    margin-top: 10px;
+    float: left;
+}
+
+.circle1 h1{
+    text-align: center;
+    padding-top: 19px;
+    
+}
+
+.Itittle1{
+    font-size: 2.5em;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.skills{
+    border: 1.5px solid black;
+    width: 500px;
+    border-radius: 8px;
+    height: 200px;
+}
+
+.Skills1{
+    font-size: 1em;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.SkP1{
+    margin-left: 20px;
+    float: left;
+}
+
+.Skills4{
+    font-size: 1em;
+    position: relative;
+    bottom: 20px;
+}
+
+.SkillLvl1{
+    margin-left: 10px;
+    float: left;
+    width: 100px;
+    height: 20px;
+}
+
+.SkillsPoint{
+    width: 100px;
+    height: 20px;
+    float: left;
+}
+
+.SkillsPoint1{
+    
+    width: 100px;
+    height: 20px;
+    float: left;
+}
+
+.SkillsPoint2{
+    
+    width: 100px;
+    height: 20px;
+    position: relative;
+    left:101px;
+}
+
+.SkillsPoint3{
+    
+    width: 100px;
+    height: 20px;
+    position: relative;
+    left:101px;
+}
+
+.SkillsPoint4{
+    width: 100px;
+    height: 20px;
+    float: left;
+}
+
+.lv1{
+    width: 10px;
+    height: 10px;
+    background-color: #746B5D;
+    border-radius: 80%;
+    float: left;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.lv0{
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 80%;
+    border: 1px solid black;
+    float: left;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.SkillLvl1 h1{
+    float: left;
+}
+
+.Lvl{
+    float: left;
+    margin-top: 10px;
+}
+
+.lv2{
+    height: 10px;
+    width: 89px;
+    margin-top: 27px;
+}
+
+.SkillsGen{
+    width: 500px;
+    height: 100px;
+    
+}
+
+.txtH{
+    margin-left: 10px;
+    font-size: 1.5em;
+}
+
+.DivTxtH{
+    width: 500px;
+    
+}
